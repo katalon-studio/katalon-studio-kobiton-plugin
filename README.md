@@ -1,5 +1,5 @@
-## katalon-qtest-plugin
-qTest integration for Katalon Studio
+## katalon-kobiton-plugin
+Kobiton integration for Katalon Studio
 
 #### Build
 Requirements:
